@@ -31,4 +31,3 @@ button.focus()
 button.pack()
 
 root.mainloop()
-
