@@ -8,7 +8,7 @@ def button_clicked(event):
 
 root = tk.Tk()
 root.title('How Do I Money??')
-root.iconbitmap('./assets/appicon.ico')
+root.iconbitmap('./src/hdim/assets/appicon.ico')
 
 W_WID = 800
 W_HEI = 400
@@ -31,4 +31,3 @@ button.focus()
 button.pack()
 
 root.mainloop()
-
