@@ -1,5 +1,5 @@
 # (WIP)How Do I Money
-or HDIM for short, is a project that should help a bit with managing your spending.
+or HDIM for short, is a project that should help a bit with managing your spending. What's currently in here is a fruit of my boredom, free time and persona need for easy money management (in a "ow to for dummies" style).
 
 ## Planned features:
 For version 1.0:
